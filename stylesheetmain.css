@@ -35,7 +35,7 @@ body, html {
   min-height: 100%;
 }
 
-.caption {
+.titles {
   position: absolute;
   left: 0;
   top: 50%;
@@ -44,7 +44,7 @@ body, html {
   color: #000;
 }
 
-.caption span.border {
+.titles span.border {
   background-color: #111;
   color: #fff;
   padding: 18px;
