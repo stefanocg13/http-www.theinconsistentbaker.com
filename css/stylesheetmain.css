@@ -1,7 +1,10 @@
 /*Navigation bar styles*/
 
 .nav-link:hover {
- 	border-bottom: 2px solid rgba(209, 76, 183);
+ 	border-bottom: 1px solid white;
+}
+.nav-link {
+ 	text-emphasis-color: white;
 }
 
 body, html {
