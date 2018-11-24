@@ -3,9 +3,6 @@
 .nav-link:hover {
  	border-bottom: 1px solid white;
 }
-.nav-link {
- 	text-emphasis-color: white;
-}
 
 body, html {
   height: 100%;
