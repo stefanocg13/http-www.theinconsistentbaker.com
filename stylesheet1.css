@@ -11,7 +11,7 @@ body, html {
   color: #777;
 }
 
-.bgimg-1, .bgimg-2, .bgimg-3 {
+.main_picture_1, .main_picture_2, .main_picture_3 {
   position: relative;
   opacity: 0.9;
   background-attachment: fixed;
@@ -20,17 +20,17 @@ body, html {
   background-size: cover;
 
 }
-.bgimg-1 {
+.main_picture_1 {
   background-image: url("images/bakes/blueberrymousse.jpg");
   min-height: 100%;
 }
 
-.bgimg-2 {
+.main_picture_2 {
   background-image: url("images/bakes/autumnpavlova.jpg");
   min-height: 100%;
 }
 
-.bgimg-3 {
+.main_picture_3 {
   background-image: url("images/bakes/laurelwreathcupcake.jpg");
   min-height: 100%;
 }
