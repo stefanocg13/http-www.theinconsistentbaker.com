@@ -21,17 +21,17 @@ body, html {
 
 }
 .main_picture_1 {
-  background-image: url("../images/bakes/blueberrymousse.jpg");
+  background-image: url("../images/bakes/wideblueberrymousse.jpg");
   min-height: 100%;
 }
 
 .main_picture_2 {
-  background-image: url("../images/bakes/autumnpavlova.jpg");
+  background-image: url("../images/bakes/wideautumnpavlova.jpg");
   min-height: 100%;
 }
 
 .main_picture_3 {
-  background-image: url("../images/bakes/laurelwreathcupcake.jpg");
+  background-image: url("../images/bakes/widelaurelwreathcupcake.jpg");
   min-height: 100%;
 }
 
